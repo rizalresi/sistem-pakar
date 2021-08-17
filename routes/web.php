@@ -21,3 +21,4 @@ Route::resource('tbkategori', 'TbkategorisController');
 Route::resource('tbkerusakan', 'TbkerusakansController');
 Route::resource('tbsolusi', 'TbsolusisController');
 Route::resource('tbvideo', 'TbvideosController');
+Route::resource('pelanggan', 'PelanggansController');
